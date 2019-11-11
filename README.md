@@ -1,2 +1,2 @@
-There are list of projects given below each .jar file is executable file so it is easy to view for everyone.
+There are list of projects given below, Each .jar file is executable file which was built in from actual source code.
 
